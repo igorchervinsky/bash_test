@@ -11,3 +11,4 @@ grep '404' /var/log/apache2/error.log > ./error_404.txt
 
 #a few little changes for github repo:))
 #next attempt to  make changes...
+#next attempt:)
